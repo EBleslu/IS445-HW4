@@ -1,0 +1,14 @@
+#balloon {
+    font-size: 30px;
+    display: block;
+}
+
+#explode {
+    font-size: 60px;
+    display: none;
+}
+
+#done {
+    font-size: 20px;
+    display: none;
+}
